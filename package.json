@@ -1,0 +1,26 @@
+{
+  "name": "play",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/divyam63/PLAY#readme",
+  "bugs": {
+    "url": "https://github.com/divyam63/PLAY/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyam63/PLAY.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.3.1",
+    "nodemon": "^3.1.14"
+  }
+}
